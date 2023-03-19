@@ -1,0 +1,26 @@
+#flex-container {
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4{
+    display: inline;
+}
+
+#flex-container .icon {
+    justify-content: flex-end;
+}
+
+.text{
+    align-self: center;
+}
+
+.logo-container {
+    justify-content: center;
+}
+
+.icon {
+    justify-content: center;
+}
